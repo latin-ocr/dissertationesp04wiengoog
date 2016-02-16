@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesp04wiengoog_0250.png"; bbox 0 0 3392 5067; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 538 1544 1057 1688">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 538 1491 1057 1688">
+     <span class='ocr_line' id='line_1_1' title="bbox 538 1544 1057 1688; baseline -0.017 0"><span class='ocrx_word' id='word_1_1' title='bbox 538 1544 1057 1688; x_wconf 74' lang='lat' dir='ltr'>QUAESTIONES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 189 1950 1476 2087">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 189 1950 1476 2087">
+     <span class='ocr_line' id='line_1_2' title="bbox 189 1950 1476 2087; baseline 0.001 -37"><span class='ocrx_word' id='word_1_2' title='bbox 189 1950 288 2051; x_wconf 83' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 342 1950 654 2087; x_wconf 21' lang='lat' dir='ltr'>ORP&#39;HEI</span> <span class='ocrx_word' id='word_1_4' title='bbox 707 1950 913 2071; x_wconf 76' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 967 1951 1405 2051; x_wconf 70' lang='lat' dir='ltr'>⁴FERUNTUR</span> <span class='ocrx_word' id='word_1_6' title='bbox 1474 1999 1476 2002; x_wconf 94' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 387 2227 1110 2330">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 387 2227 1110 2330">
+     <span class='ocr_line' id='line_1_3' title="bbox 387 2227 1110 2330; baseline 0.004 -3"><span class='ocrx_word' id='word_1_7' title='bbox 387 2272 390 2279; x_wconf 50' lang='lat'><strong><em>¹</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 486 2227 1110 2330; x_wconf 80' lang='lat' dir='ltr'><strong>ARGONAUTIOIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 385 2794 1214 2995">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 385 2794 1214 2995">
+     <span class='ocr_line' id='line_1_4' title="bbox 385 2794 1214 2995; baseline -0.001 -51"><span class='ocrx_word' id='word_1_9' title='bbox 385 2861 770 2944; x_wconf 79' lang='lat' dir='ltr'>GUILIELMUS</span> <span class='ocrx_word' id='word_1_10' title='bbox 803 2794 1214 2995; x_wconf 53' lang='lat' dir='ltr'>WEINBERGER.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1700 5067">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1700 5067">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1700 5067; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1700 5067; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
